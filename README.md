@@ -1,5 +1,7 @@
 # ⚖️ Legal AI Chatbot
 
+[![Website](https://img.shields.io/badge/Website-Click%20Here-blue)](https://legal-ap.streamlit.app/)
+
 ![](1.png)
 ![](2.png)
 
