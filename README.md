@@ -31,13 +31,15 @@ Legal AI Chatbot is an AI-powered application that provides **trusted legal insi
 ├── vector_store.py         # FAISS-based vector database for storing embeddings
 ├── requirements.txt        # Dependencies
 ├── Data/                   # Folder containing legal PDFs
+├── main.py                 # For Deploying in Streamlit Cloud
+
 
 ```
 
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/PriyanshuDey23/Legal.git
+git clone https://github.com/PriyanshuDey23/Legal_Chatbot.git
 cd legal-ai-chatbot
 ```
 ### 2️⃣ Create a Virtual Environment & Install Dependencies
